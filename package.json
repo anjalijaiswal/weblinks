@@ -1,0 +1,15 @@
+{
+  "title": "weblink",
+  "name": "weblink",
+  "version": "0.0.0",
+  "description": "An add-on for bookmarking with reminders",
+  "main": "index.js",
+  "author": "Anjali Jaiswal",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
